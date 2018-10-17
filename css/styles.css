@@ -1,0 +1,32 @@
+#letterpic {
+  background-image: url('../img/letter.jpg');
+  width: 1000px;
+  height: 1200px;
+  background-size: cover;
+}
+
+#letterrow {
+  font-family: cursive;
+  font-size: 26px;
+  padding-top: 80px;
+  background-color:inherit;
+  border: none;
+  width: 1000px;
+}
+
+#header {
+  padding-top: 113px;
+}
+
+p {
+  text-indent: 35px;
+}
+
+#letter {
+  display: none;
+}
+
+h2 {
+  font-family: cursive;
+  text-align: center;
+}
